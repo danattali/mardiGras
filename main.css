@@ -1,0 +1,97 @@
+h1 {
+    font-family: Pattaya;
+}
+
+nav div #logo {
+    width: 100px;
+}
+
+
+
+
+nav {
+    background-color: #9453a6;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container #aboutMardiGras img {
+    width: 100vw;
+
+}
+
+.container1 {
+    background-color: #f2cc0f;
+
+}
+
+.container1 h1 {
+    font-family: pattaya;
+    text-align: center;
+}
+
+.container1 #form1 {
+    padding: 100px;
+}
+
+.container1 {
+    background-color: #f2c00f;
+    width: auto;
+}
+
+#question {
+    background-color: #f2c00f;
+}
+
+
+/* footer */
+
+
+footer {
+    display: block;
+    background-color: #8cbf3f;
+    text-align: center;
+
+}
+
+footer #columnOne {
+    padding: 2rem;
+    width: 20rem;
+    color: #f2f2f2;
+    font-family: pattaya;
+}
+
+footer #firstColumn {
+    width: 10rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    position: relative;
+    list-style-type: none;
+    font-size: 1.5em;
+}
+
+footer #firstColumn ul li {
+    text-decoration: none;
+}
+
+.container3 {
+    background-color: #f2cc0f;
+}
+
+.container3 #video1 {
+    margin-top: 5px;
+    margin-right: 5em;
+    margin-left: 7em;
+}
+
+.container6 {
+    background-color: #f2cc0f;
+    padding-bottom: 3vh;
+    padding-top: 1vh;
+}
